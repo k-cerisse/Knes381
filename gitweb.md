@@ -1,6 +1,6 @@
-#Welcome!
-##I made this file on the github website
-###How?
+# Welcome!
+## I made this file on the github website
+### How?
 - name the file
 - add text
 - go back to teminal
