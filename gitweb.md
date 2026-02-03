@@ -1,7 +1,5 @@
 # Welcome!
-## I made this file on the github website
-### How?
-- name the file
-- add text
-- go back to teminal
-- git pull 
+I'm learning how to make the text look nice. I'll be trying to make tables, links, etc.
+This should just be plain text
+## This is The Second Heading
+tbc...
