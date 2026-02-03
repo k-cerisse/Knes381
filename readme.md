@@ -1,6 +1,6 @@
-#This is the first line of this text file 
+# I made changes to this first line of text
 
-##second
+## As well as this second line
 
 ### third
 
