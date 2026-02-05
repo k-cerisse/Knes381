@@ -10,7 +10,7 @@
   <h4> Changing background color</h4>
 <p style="background-color:yellow;"> This paragraph should be highlighted yellow now. Fun fact: yellow used to be my favourite color 💛
 <br>  
-<p style="background-color:tomato;"> However now, it's red. More specifically, this shade of red </p>
+<p style="background-color:red;"> However now, it's red. More specifically, this shade of red </p>
   <p style="color:blue;"> This text should now be blue</p>
   <p style="color:pink;"> And this is pink</p>
 </body>  
