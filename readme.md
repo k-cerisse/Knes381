@@ -1,13 +1,27 @@
 <!DOCTYPE html>
 <html lang="en-CA">
 <h1 align="center">Markdown-HTML Assignment </h1>
-<p> It's currently Wednesday,February 11<sup>th</sup>, 2026. </p>
-
-<p>I would like to request an A- for this assignment (pretty please)
-</p>
+  <h2> Minimum Requirements ✔️</h2>
+    <h3> Superscript </h3>
+      <p> It's currently Wednesday,February 11<sup>th</sup>, 2026. </p>
+    <h3> Image Beside Text  </h3>
+      <p>I would like to request an A- for this assignment (pretty please)</p>
   
+  ![PLease](photos/subaru.jpg)
+
+<h3> Hyperlink to Another Markdown File </h3>
+
 [Link to another Markdown File](other.md)
 
-Fun fact: My favourite and dream car is a [1999 Subaru Impreza WRX STI](photos/subaru.jpg).
+<hr>
 
+<h2> Higher Achievement Levels 🏅</h2>
+
+<h3> Hyperlink to Image ito Subfolder</h3>
+
+Fun fact: My favourite and dream car is a [1999 Subaru Impreza WRX STI](photos/subaru.jpg) 
+<hr>
+<h2> Advanced Elements 🏆</h2>
+<h3> Code Block</h3>
+<h3>Colored Text</h3>
 </html>
