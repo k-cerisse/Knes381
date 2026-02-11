@@ -8,6 +8,6 @@
   
 [Link to another Markdown File](other.md)
 
-Fun fact: My favourite and dream car is a [1999 Subaru Impreza WRX STI](
+Fun fact: My favourite and dream car is a [1999 Subaru Impreza WRX STI](photos/subaru.jpg).
 
 </html>
