@@ -3,12 +3,18 @@
 <h1 align="center">Markdown-HTML Assignment </h1>
   <h2> Minimum Requirements ✔️</h2>
     <h3> Superscript </h3>
-      <p> It's currently Wednesday,February 11<sup>th</sup>, 2026. </p>
+      <p> It's currently Wednesday, February 11<sup>th</sup>, 2026. </p>
     <h3> Image Beside Text  </h3>
-      <p>I would like to request an A- for this assignment (pretty please)</p>
   
-  ![PLease](photos/subaru.jpg)
+  <img src="photos/please.jpg" alt="Please" width="200" align="right"> 
+<br>
+<br>
+<br>
+<br>
 
+I would like an A fir this assignment... (please)
+<br clear="right">
+  
 <h3> Hyperlink to Another Markdown File </h3>
 
 [Link to another Markdown File](other.md)
