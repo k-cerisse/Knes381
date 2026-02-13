@@ -12,7 +12,7 @@
 <br>
 <br>
 
-I would like an A fir this assignment... (please)
+I would like an A for this assignment... (please)
 <br clear="right">
   
 <h3> Hyperlink to Another Markdown File </h3>
@@ -29,5 +29,10 @@ Fun fact: My favourite and dream car is a [1999 Subaru Impreza WRX STI](photos/s
 <hr>
 <h2> Advanced Elements 🏆</h2>
 <h3> Code Block</h3>
+
+  <pre>
+
+  </pre>
 <h3>Colored Text</h3>
+  <span style="color:red;"> This text is red.</span>
 </html>
